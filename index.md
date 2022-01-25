@@ -1,5 +1,9 @@
 # Clémence Delettre
 
+## Images
+
+![This is a alt text.](/image/sample.png "This is a sample image.")
+
 ## CONTACT
 23/06/2000 (21 ans)
 
