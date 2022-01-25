@@ -23,7 +23,7 @@ Rédaction de contenu print et web, alimentation du site et réseau social, mise
 
 Promotion du département IC, organisation de salons/forums, supervision d'équipe, gestion administrative
 
-*Infocomcom LH, IUT du Havre*
+*[Infocomcom LH](https://infocomcom-lh.com/), IUT du Havre*
 
 ### Vendeuse
 Juillet 2019 (1 mois)・emploi saisonnier
