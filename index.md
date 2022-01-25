@@ -1,6 +1,6 @@
 # Clémence Delettre
 
-![Profile picture.](/icon.png)
+![Profile icon](/icon.png)
 
 ## CONTACT
 23/06/2000 (21 ans)
